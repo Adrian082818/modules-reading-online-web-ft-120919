@@ -1,3 +1,3 @@
-class FancyDance
+clamodu==ss FancyDance
   
 end 
