@@ -1,3 +1,4 @@
-clamodu==ss FancyDance
-  
+module FancyDance
+  module 
+    InstanceMethods
 end 
